@@ -1,9 +1,7 @@
-﻿  <?xml version="1.0" ?> 
-- <Container version="2">
+﻿- <Container version="2">
   <Name>ARKSurvivalEvolved</Name> 
   <Repository>Kirito92/7daystodie</Repository> 
   <Network>bridge</Network> 
-  <MyIP /> 
   <Shell>sh</Shell> 
   <Privileged>false</Privileged> 
   <Support></Support> 
